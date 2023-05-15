@@ -9,7 +9,7 @@ from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
 # Replace the placeholder with your Atlas connection string
-uri = "mongodb+srv://mongo_user:zmBda6UceEXjeGka@cluster0.x5pujfi.mongodb.net/?retryWrites=true&w=majority"
+uri = "<Connection String>"
 
 client = MongoClient(uri, server_api=ServerApi('1'))
 
