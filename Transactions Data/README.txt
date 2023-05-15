@@ -1,0 +1,1 @@
+Python program to extract all documents from all collections stored in Analytics database and store them to a directory in local system
