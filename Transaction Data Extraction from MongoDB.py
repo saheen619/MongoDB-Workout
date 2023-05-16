@@ -2,9 +2,7 @@
 
 import pymongo
 import bson
-
 from bson import json_util
-
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
